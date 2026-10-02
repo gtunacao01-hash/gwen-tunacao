@@ -35,13 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtunacao01-hash&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtunacao01-hash&layout=compact&theme=radical)
-
----
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gtunacao01-hash)
 
 > "Always curious, always learning."
