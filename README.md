@@ -1,6 +1,6 @@
 # Hi, I'm Gwen 👋  
 
-![Profile Picture](https://your-image-link.com)  
+![Profile Picture](https://github.com/gtunacao01-hash/gwen-tunacao/blob/main/img2.jpg)  
 
 💻 IT Support Analyst | 🎯 Sales & Marketing | 📦 E‑commerce VA | 🤖 Exploring AI  
 
