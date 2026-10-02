@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠 Tools & Technologies
+### 🧰 Tools & Technologies
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -36,12 +36,12 @@
 ---
 
 ### 📈 GitHub Stats
-![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwen-tunacao&show_icons=true&theme=radical)
+![Gwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtunacao01-hash&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwen-tunacao&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtunacao01-hash&layout=compact&theme=radical)
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gwen-tunacao)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gtunacao01-hash)
 
 > "Always curious, always learning."
